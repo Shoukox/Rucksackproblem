@@ -1,0 +1,15 @@
+C:\Users\shach\source\repos\Rucksackproblem\Rucksackproblem\obj\Debug\net6.0\Rucksackproblem.csproj.AssemblyReference.cache
+C:\Users\shach\source\repos\Rucksackproblem\Rucksackproblem\obj\Debug\net6.0\Rucksackproblem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shach\source\repos\Rucksackproblem\Rucksackproblem\obj\Debug\net6.0\Rucksackproblem.AssemblyInfoInputs.cache
+C:\Users\shach\source\repos\Rucksackproblem\Rucksackproblem\obj\Debug\net6.0\Rucksackproblem.AssemblyInfo.cs
+C:\Users\shach\source\repos\Rucksackproblem\Rucksackproblem\obj\Debug\net6.0\Rucksackproblem.csproj.CoreCompileInputs.cache
+C:\Users\shach\source\repos\Rucksackproblem\Rucksackproblem\bin\Debug\net6.0\Rucksackproblem.exe
+C:\Users\shach\source\repos\Rucksackproblem\Rucksackproblem\bin\Debug\net6.0\Rucksackproblem.deps.json
+C:\Users\shach\source\repos\Rucksackproblem\Rucksackproblem\bin\Debug\net6.0\Rucksackproblem.runtimeconfig.json
+C:\Users\shach\source\repos\Rucksackproblem\Rucksackproblem\bin\Debug\net6.0\Rucksackproblem.dll
+C:\Users\shach\source\repos\Rucksackproblem\Rucksackproblem\bin\Debug\net6.0\Rucksackproblem.pdb
+C:\Users\shach\source\repos\Rucksackproblem\Rucksackproblem\obj\Debug\net6.0\Rucksackproblem.dll
+C:\Users\shach\source\repos\Rucksackproblem\Rucksackproblem\obj\Debug\net6.0\refint\Rucksackproblem.dll
+C:\Users\shach\source\repos\Rucksackproblem\Rucksackproblem\obj\Debug\net6.0\Rucksackproblem.pdb
+C:\Users\shach\source\repos\Rucksackproblem\Rucksackproblem\obj\Debug\net6.0\Rucksackproblem.genruntimeconfig.cache
+C:\Users\shach\source\repos\Rucksackproblem\Rucksackproblem\obj\Debug\net6.0\ref\Rucksackproblem.dll
